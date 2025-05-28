@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a beginner software tester with ISTQB certification. I am currently working as a manul tester in one of the projects at Silesian University of Technology, and in my free time I am focused on acquiring new skills in testing and Python programming
+
+See my PORTFOLIO!
 <!--
 **ewelinakolebuk/ewelinakolebuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
